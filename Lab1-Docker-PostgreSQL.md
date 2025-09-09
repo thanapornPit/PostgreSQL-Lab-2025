@@ -609,6 +609,9 @@ SET search_path TO public;
 4. ข้อมูลที่แสดงจาก complex join ข้าม 3 schemas
 ```
 1. <img width="341" height="172" alt="image" src="https://github.com/user-attachments/assets/0e9da4f6-773e-4a8f-abda-c22457789919" />
+<img width="1098" height="726" alt="image" src="https://github.com/user-attachments/assets/7b359fb3-d631-477b-b7f7-fefddb287a3e" />
+<img width="1120" height="882" alt="image" src="https://github.com/user-attachments/assets/63c93d10-aa65-4249-8e27-745bc71b784b" />
+<img width="1347" height="936" alt="image" src="https://github.com/user-attachments/assets/d25c2adf-ed2b-453c-b6fe-e969a3831523" />
 
 
 ### Step 11: ทดสอบการเชื่อมต่อจาก User อื่น
