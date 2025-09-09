@@ -235,6 +235,13 @@ WHERE name IN ('shared_buffers', 'work_mem', 'maintenance_work_mem', 'effective_
 2. ผลการรัน SHOW shared_buffers; SHOW work_mem; SHOW maintenance_work_mem;SHOW effective_cache_size;
 3. ผลการรัน \l และ \du
 ```
+1. <img width="1450" height="682" alt="image" src="https://github.com/user-attachments/assets/47ab6bcd-5e0b-4e1c-aba6-df0d73935d5a" />
+
+2. <img width="1425" height="237" alt="image" src="https://github.com/user-attachments/assets/d7381c1a-4e7a-4067-afac-9e957a8820aa" />
+
+3. <img width="1647" height="391" alt="image" src="https://github.com/user-attachments/assets/3c6655ce-0e61-4d3e-a424-7e976a9cb9ba" />
+
+
 
 ### Step 6: Database Management Operations
 
