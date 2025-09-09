@@ -288,6 +288,7 @@ WHERE datname = 'lab_db';
 ```
 <img width="1625" height="543" alt="image" src="https://github.com/user-attachments/assets/fcbce0c5-b2b6-482b-8036-158645e1beaf" />
 
+<img width="1081" height="506" alt="image" src="https://github.com/user-attachments/assets/9afd240d-4434-4dc6-bfb9-71f589f9b477" />
 
 
 ### Step 7: User และ Role Management
