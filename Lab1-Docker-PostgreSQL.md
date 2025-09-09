@@ -422,6 +422,12 @@ GRANT SELECT ON postgres_test_table TO lab_user;
  ```
 Access Privileges   postgres=arwdDxtm/postgres มีความหมายอย่างไร
 
+ตอบ  postgres = ชื่อ user
+
+     arwdDxtm = สิทธิ์ทั้งหมด (Insert, Select, Update, Delete)
+
+     /postgres = สิทธิ์ถูกมอบโดย user postgres เอง
+
 
  ```
 ### Step 9: Schema Management และ Namespace
