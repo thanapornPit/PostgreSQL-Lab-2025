@@ -103,9 +103,7 @@ docker inspect postgres
 
 
 **บันทึกผลการทดลอง - Step 1:**
-```
-ใส่ Screenshot ของผลการรัน docker images ที่นี่
-```
+<img width="833" height="163" alt="image" src="https://github.com/user-attachments/assets/a757cc43-4fa9-4b84-bda3-970fbe271fa7" />
 
 ### Step 2: Create Docker Volume for Data Persistence
 
@@ -126,7 +124,9 @@ docker volume create postgres-config
 **คำอธิบาย**: Docker Volume จะทำให้ข้อมูลคงอยู่แม้ Container จะถูกลบ
 
 **บันทึกผลการทดลอง - Step 2:**
-<img width="833" height="163" alt="image" src="https://github.com/user-attachments/assets/a757cc43-4fa9-4b84-bda3-970fbe271fa7" />
+
+<img width="897" height="472" alt="image" src="https://github.com/user-attachments/assets/b1da8ed9-bfe4-4927-9ee8-5be746ee7c69" />
+
 
 
 ### Step 3: Create PostgreSQL Container with Volume
@@ -159,7 +159,7 @@ docker run --name postgres-lab \
 - `-c shared_buffers=256MB`: กำหนด shared buffers
 
 **บันทึกผลการทดลอง - Step 3:**
-<img width="897" height="472" alt="image" src="https://github.com/user-attachments/assets/b1da8ed9-bfe4-4927-9ee8-5be746ee7c69" />
+
 
 
 ### Step 4: Verify Container Status and Resource Usage
