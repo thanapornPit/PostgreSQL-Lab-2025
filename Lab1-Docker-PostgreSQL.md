@@ -413,6 +413,11 @@ GRANT SELECT ON postgres_test_table TO lab_user;
 2. ผลการรัน \dp test_permissions
 3. ผลการ GRANT commands
 ```
+<img width="1230" height="957" alt="image" src="https://github.com/user-attachments/assets/8955ac38-bbbc-4f93-9d18-6e6be2fb082d" />
+<img width="937" height="462" alt="image" src="https://github.com/user-attachments/assets/96597962-5f43-409f-bd55-6ee98fb708c2" />
+
+
+
 **คำถาม
  ```
 Access Privileges   postgres=arwdDxtm/postgres มีความหมายอย่างไร
