@@ -608,6 +608,8 @@ SET search_path TO public;
 3. ผลการ JOIN ข้าม schemas (sales + hr + inventory)
 4. ข้อมูลที่แสดงจาก complex join ข้าม 3 schemas
 ```
+1. <img width="341" height="172" alt="image" src="https://github.com/user-attachments/assets/0e9da4f6-773e-4a8f-abda-c22457789919" />
+
 
 ### Step 11: ทดสอบการเชื่อมต่อจาก User อื่น
 
